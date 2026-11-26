@@ -259,7 +259,7 @@ performance.
 ### Dashboard preview
 
 Add your actual exported dashboard screenshot at
-`powerbi/images/dashboard_overview.png` and retain the following image
+`Power BI/Retail_sales.jpg` and retain the following image
 reference:
 
 ![Retail Sales Analytics
