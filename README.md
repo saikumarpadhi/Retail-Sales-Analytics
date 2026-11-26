@@ -263,14 +263,12 @@ Add your actual exported dashboard screenshot at
 reference:
 
 ![Retail Sales Analytics
-Dashboard](powerbi/Retail_sales.jpg)
+Dashboard](Power BI/Retail_sales.jpg)
 
 ### Open the report
 
 -   **Interactive Power BI report:** [Open the published
     dashboard](https://app.powerbi.com/links/bPTHWwb9Sn?ctid=88f944d0-1278-45f9-88d8-dc81b5f77b17&pbi_source=linkShare)
--   **Downloadable report:** `powerbi/Retail_Sales_Dashboard.pdf`
--   **Power BI project file:** `powerbi/Retail_Sales_Dashboard.pbix`
 
 The Power BI link may require the viewer to sign in or have permission.
 Check its access settings before sharing it publicly. Do not enable
